@@ -17,5 +17,5 @@ int sort_pivot(int* main_arr, int main_size, int pivot, int* array1, int* array2
         }
     }
 
-    return k + 1;
+    return k;
 }
